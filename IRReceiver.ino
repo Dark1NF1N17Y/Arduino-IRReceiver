@@ -1,6 +1,6 @@
 //Define Part
-#define sensor 8
-#define led 4
+#define sensor 4
+#define led 8
 //Setup Part
 void setup() {
   //PineMode Part
