@@ -1,4 +1,4 @@
-# IRReceiver
+# Arduino-IRReceiver
 
 1 - When The Sensor Read Infrared Input The Leds Turn On
 
