@@ -6,6 +6,6 @@
 
 Project Design :-
 
-![alt text](https://github.com/Dark1NF1N17Y/Arduino-Battery-Tester-Using-IR/blob/main/Project.png?raw=true)
+![alt text](https://github.com/Dark1NF1N17Y/Arduino-IRReceiver/blob/main/ProjectDesign.png?raw=true)
 
 **CopyRight 1NF1N17Y 2023**
